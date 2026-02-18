@@ -17,7 +17,7 @@ const (
 
 // The Dashboard template now uses HTML-style centering and SVGs
 const DashboardTemplate = `<p align="center">
-  <img src="` + HeroGIF + `" width="800" alt="Garden Engine">
+  <img src="` + HeroGIF + `" width="400" alt="Garden Engine">
 </p>
 
 <h1 align="center">🌿 DIGITAL GARDEN ENGINE v1.0</h1>
