@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b6374879531965.5cc649b7adaf6.gif" width="800" alt="Garden Engine">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b6374879531965.5cc649b7adaf6.gif" width="400" alt="Garden Engine">
 </p>
 
 <h1 align="center">🌿 DIGITAL GARDEN ENGINE v1.0</h1>
@@ -16,7 +16,7 @@
 | Metric | Detail |
 | :--- | :--- |
 | **Total Seeds** | 1 Entries |
-| **Last Irrigation** | Feb 18, 2026 | 14:19 |
+| **Last Irrigation** | Feb 18, 2026 | 14:21 |
 | **Environment** | GitHub Actions / Go 1.22 |
 
 ### 📂 The Growth Archive
